@@ -1,5 +1,0 @@
-1. store the second element in a variable called key
-2. compare it with the sorted list before it (which is one element)
-3. if the element is smaller than the previous one, the previous element will be shifted on step to the right
-4. if not, the element is replaced at the back of the smaller element
-Big O(n^2)
